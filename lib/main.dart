@@ -3,19 +3,7 @@ import 'package:flutter_pw_validator/flutter_pw_validator.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:lottie/lottie.dart';
 
-//
-// Created by CodeWithFlexZ
-// Tutorials on my YouTube
-//
-//! Instagram
-//! @CodeWithFlexZ
-//
-//? GitHub
-//? AmirBayat0
-//
-//* YouTube
-//* Programming with FlexZ
-//
+//Mobile App Assignment
 
 void main() {
   runApp(const MyApp());
@@ -54,11 +42,11 @@ class _HomePageState extends State<HomePage> {
           title: Column(
             children: [
               Text(
-                "Password Validation",
+                "Mobile Application Assignment",
                 style: GoogleFonts.mPlus1(fontWeight: FontWeight.w500),
               ),
               Text(
-                "@CodeWithFlexZ",
+                "Zubeyr Anwar -Password Validation",
                 style: GoogleFonts.mPlus1(
                     color: Colors.white54,
                     fontSize: 17,
